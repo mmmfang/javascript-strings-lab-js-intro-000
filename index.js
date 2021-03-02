@@ -2,8 +2,8 @@ let greeting = "Hello, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
-let greetSpecialGuest = `Hello, ${specialGuest}!`;
+let greetSpecialGuest = `Hello, ${specialGuest}!``;
 
-let topic = "Let's talk about space.";
+let topic = "space";
 
-let conversation = `${topic}`;
+let conversation = `Let's talk about ${topic}.`;
